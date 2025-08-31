@@ -1,0 +1,9 @@
+#Ignore python distribution files
+*.egg-info/
+dist/
+build/
+**/__pycache__/
+#Ignore poetry files
+*.lock
+#Ignore database files
+*.db
